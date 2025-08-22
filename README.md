@@ -68,7 +68,7 @@ Expo CLI (optional, for additional features)
 # Installation
 
 1. Clone or download the project
-   git clone https://github.com/raghurocky123/Klaudiusproject.git
+   git clone https://github.com/raghurocky123/Klaudius-project.git
    cd Klaudiusproject
 
 2. Install dependencies
