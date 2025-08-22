@@ -2,6 +2,10 @@
 
 React Native Application with Login and Signup Functionalities written in Typescript
 
+# Loom video link of the demo video
+
+https://www.loom.com/share/7412c5a0f6434689b2c99ee9c59884ea?sid=0587e839-9c12-4ffc-a0cc-caed1202a73f
+
 # User Authentication App
 
 A modern React Native authentication app built with Expo Router, featuring a complete user authentication system with persistent login state and nice UI design.
