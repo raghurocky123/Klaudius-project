@@ -9,18 +9,21 @@ https://www.loom.com/share/7412c5a0f6434689b2c99ee9c59884ea?sid=0587e839-9c12-4f
 # Installation
 
 1. Clone or download the project
-   git clone https://github.com/raghurocky123/Klaudius-project.git
-   cd Klaudius-project
+
+   - git clone https://github.com/raghurocky123/Klaudius-project.git
+   - cd Klaudius-project
 
 2. Install dependencies
-   npm install --legacy-peer-deps
+
+   - npm install --legacy-peer-deps
 
 3. Start the development server
-   npm run dev
+
+   - npm run dev
 
 4. Open the app
-   Web: Open the provided localhost URL
-   Mobile: Use Expo Go app to scan the QR code
+   - Web: Open the provided localhost URL
+   - Mobile: Use Expo Go app to scan the QR code
 
 # User Authentication App
 
