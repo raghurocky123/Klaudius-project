@@ -8,7 +8,7 @@ https://www.loom.com/share/7412c5a0f6434689b2c99ee9c59884ea?sid=0587e839-9c12-4f
 
 # User Authentication App
 
-A modern React Native authentication app built with Expo Router, featuring a complete user authentication system with persistent login state and nice UI design.
+A React Native authentication app built with Expo Router, featuring a complete user authentication system with persistent login state and nice UI design.
 
 # Core Authentication
 
@@ -36,44 +36,34 @@ Error Handling: Graceful error states with userfriendly messages
 
 Email and password input fields
 Form validation with error messages
-Demo credentials display for easy testing
 Navigation to signup screen
-Beautiful gradient background with cardbased layout
 
 # 2. Signup Screen
 
 Name, email, and password input fields
-Realtime validation feedback
-Password strength requirements
 Navigation back to login screen
-Consistent design with login screen
 
 # 3. Home Screen (Tab 1)
 
-Welcome message with user information
 Display of current user's name and email
 Quick logout functionality
-Clean cardbased information display
 
 # 4. Profile Screen (Tab 2)
 
 Detailed user profile information
 Account details with icons
-Member since date
 Logout functionality
-Professional profile card design
 
 # Prerequisites
 
 Node.js (v18 or later)
-npm or yarn
-Expo CLI (optional, for additional features)
+npm
 
 # Installation
 
 1. Clone or download the project
    git clone https://github.com/raghurocky123/Klaudius-project.git
-   cd Klaudiusproject
+   cd Klaudius-project
 
 2. Install dependencies
    npm install
@@ -87,20 +77,14 @@ Expo CLI (optional, for additional features)
 
 # Testing Scenarios
 
-1. Login Flow
-
-   Use demo credentials to test successful login
-   Try invalid credentials to test error handling
-   Test email format validation
-
-2. Signup Flow
+1. Signup Flow
 
    Create a new account with valid information
    Test validation for missing fields
    Test password length requirements
    Try signing up with existing email
 
-3. Persistence
+2. Persistence
    Log in and close/reopen the app
    Verify user remains logged in
    Test logout functionality
