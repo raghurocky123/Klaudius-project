@@ -6,6 +6,22 @@ React Native Application with Login and Signup Functionalities written in Typesc
 
 https://www.loom.com/share/7412c5a0f6434689b2c99ee9c59884ea?sid=0587e839-9c12-4ffc-a0cc-caed1202a73f
 
+# Installation
+
+1. Clone or download the project
+   git clone https://github.com/raghurocky123/Klaudius-project.git
+   cd Klaudius-project
+
+2. Install dependencies
+   npm install --legacy-peer-deps
+
+3. Start the development server
+   npm run dev
+
+4. Open the app
+   Web: Open the provided localhost URL
+   Mobile: Use Expo Go app to scan the QR code
+
 # User Authentication App
 
 A React Native authentication app built with Expo Router, featuring a complete user authentication system with persistent login state and nice UI design.
@@ -58,22 +74,6 @@ Logout functionality
 
 Node.js (v18 or later)
 npm
-
-# Installation
-
-1. Clone or download the project
-   git clone https://github.com/raghurocky123/Klaudius-project.git
-   cd Klaudius-project
-
-2. Install dependencies
-   npm install
-
-3. Start the development server
-   npm run dev
-
-4. Open the app
-   Web: Open the provided localhost URL
-   Mobile: Use Expo Go app to scan the QR code
 
 # Testing Scenarios
 
